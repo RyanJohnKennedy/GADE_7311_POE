@@ -1,0 +1,10 @@
+
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.B._._._._._._._._._.R.B._._._._.A._._._._.R.B._._._._._._._._._.R._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.
+
+UnityEngine.Debug:Log (object)
+LearningAI:SearchForState (BoardState) (at Assets/Scripts/Learning AI/LearningAI.cs:99)
+LearningAI:MakeMove (BoardState,UnityEngine.Vector2Int,PieceController) (at Assets/Scripts/Learning AI/LearningAI.cs:47)
+GameController:TakeTurn () (at Assets/Scripts/GameController.cs:330)
+GameController:AITurn () (at Assets/Scripts/GameController.cs:313)
+GameController:Update () (at Assets/Scripts/GameController.cs:94)
+
